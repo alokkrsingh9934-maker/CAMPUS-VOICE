@@ -1,0 +1,7 @@
+{
+  "name": "EduGrievance - Official College Complaint Portal",
+  "description": "A robust institutional platform for students to lodge formal complaints regarding infrastructure, hostels, mess, and faculty. Includes automated routing to authorities and AI-powered executive analytics for the Vice Chancellor.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
